@@ -1,0 +1,13 @@
+{
+  "name": "viral-lens-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Frontend for ViralLens, using ES modules and importmaps.",
+  "scripts": {
+    "dev": "echo \"Run index.html in a browser with a local server. No specific dev script.\"",
+    "build": "echo \"No build step required for this static application.\"",
+    "start": "echo \"Serve index.html from a static server.\""
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
